@@ -9,6 +9,8 @@ This project is a simple Node.js application using the Express framework and MyS
 
 run `npm init` to set up new npm package.
 
+run `npm i mysql2 express` to setup express and mysql2
+
 create `index.js` file to write connection code.
 
 to run file use `node index.js` on terminal.
